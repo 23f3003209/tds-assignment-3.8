@@ -1,6 +1,24 @@
 {
-  "type": "module",
+  "name": "q11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/23f3003209/tds-assignment-3.8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/23f3003209/tds-assignment-3.8/issues"
+  },
+  "homepage": "https://github.com/23f3003209/tds-assignment-3.8#readme",
   "dependencies": {
-    "playwright": "^1.42.0"
+    "playwright": "^1.58.2"
   }
 }
