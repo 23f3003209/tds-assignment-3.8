@@ -19,7 +19,7 @@ const seeds = [58, 59, 60, 61, 62, 63, 64, 65, 66, 67];
         total += nums.reduce((a, b) => a + b, 0);
     }
 
-    console.log("FINAL TOTAL =", total);
+    console.log("TOTAL =", total);
 
     await browser.close();
 })();
