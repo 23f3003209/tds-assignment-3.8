@@ -1,4 +1,4 @@
-const { chromium } = require("playwright");
+import { chromium } from "playwright";
 
 const seeds = [58, 59, 60, 61, 62, 63, 64, 65, 66, 67];
 
